@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
   <PropertyGroup>
     <VersionMajor>2</VersionMajor>
     <VersionMinor>10</VersionMinor>
@@ -102,7 +102,7 @@
     <PackageReference Include="Fleck" Version="1.2.0" />
     <PackageReference Include="GiphyDotNet" Version="2.0.0" />
     <PackageReference Include="HidSharp" Version="2.1.0" />
-    <PackageReference Include="Magick.NET-Q16-x64" Version="8.3.1" />
+    <PackageReference Include="Magick.NET-Q16-x64" Version="13.3.0" />
     <PackageReference Include="Magick.NET.Core" Version="8.3.1" />
     <PackageReference Include="Magick.NET.SystemDrawing" Version="4.0.6" />
     <PackageReference Include="Microsoft.Windows.SDK.Contracts" Version="10.0.22000.196" />
